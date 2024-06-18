@@ -1,0 +1,54 @@
+[
+    {
+      "id": "camera_1",
+      "lightRange": {
+        "min": 10,
+        "max": 30,
+        "units": "%"
+      },
+      "distanceRange": {
+        "min": 0,
+        "max": 5,
+        "units": "meters"
+      }
+    },
+    {
+        "id": "camera_2",
+        "lightRange": {
+          "min": 20,
+          "max": 80,
+          "units": "%"
+        },
+        "distanceRange": {
+          "min": 3,
+          "max": 8,
+          "units": "meters"
+        }
+      },
+      {
+        "id": "camera_3",
+        "lightRange": {
+          "min": 40,
+          "max": 60,
+          "units": "%"
+        },
+        "distanceRange": {
+          "min": 5,
+          "max": 8,
+          "units": "meters"
+        }
+      },
+      {
+        "id": "camera_4",
+        "lightRange": {
+          "min": 80,
+          "max": 100,
+          "units": "%"
+        },
+        "distanceRange": {
+          "min": 7,
+          "max": 10,
+          "units": "meters"
+        }
+      }
+    ]
