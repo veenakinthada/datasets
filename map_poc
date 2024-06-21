@@ -1,0 +1,146 @@
+[
+  {
+    "_id": "6674c477e61431fb81a54802",
+    "isActive": true,
+    "lastUpdate": "2023-05-10T07:57:42 +07:00",
+    "latitude": 12.6738,
+    "longitude": -14.687991,
+    "status": "green"
+  },
+  {
+    "_id": "6674c477db3280a2710b2c19",
+    "isActive": false,
+    "lastUpdate": "2020-01-23T08:24:04 +08:00",
+    "latitude": -72.345531,
+    "longitude": 157.095583,
+    "status": "red"
+  },
+  {
+    "_id": "6674c477630f7634be2a28be",
+    "isActive": true,
+    "lastUpdate": "2018-10-13T12:55:16 +07:00",
+    "latitude": -70.069516,
+    "longitude": 148.335751,
+    "status": "red"
+  },
+  {
+    "_id": "6674c47790e849688675d83a",
+    "isActive": false,
+    "lastUpdate": "2019-04-10T03:35:19 +07:00",
+    "latitude": -50.382367,
+    "longitude": 56.031738,
+    "status": "green"
+  },
+  {
+    "_id": "6674c47728a3d02230345353",
+    "isActive": false,
+    "lastUpdate": "2018-07-27T02:27:58 +07:00",
+    "latitude": -47.758061,
+    "longitude": -99.505775,
+    "status": "red"
+  },
+  {
+    "_id": "6674c477705204bd6ed07a6a",
+    "isActive": false,
+    "lastUpdate": "2015-09-14T03:09:52 +07:00",
+    "latitude": -51.697642,
+    "longitude": 69.873934,
+    "status": "green"
+  },
+  {
+    "_id": "6674c477fa5d0ed7835323ad",
+    "isActive": true,
+    "lastUpdate": "2016-10-30T05:20:36 +07:00",
+    "latitude": 35.553525,
+    "longitude": 49.854426,
+    "status": "blue"
+  },
+  {
+    "_id": "6674c47701f47333a558506e",
+    "isActive": false,
+    "lastUpdate": "2023-10-21T10:16:34 +07:00",
+    "latitude": -42.670007,
+    "longitude": -82.763448,
+    "status": "green"
+  },
+  {
+    "_id": "6674c477ccaf3152194b8cf9",
+    "isActive": false,
+    "lastUpdate": "2024-03-08T09:47:38 +08:00",
+    "latitude": -35.798317,
+    "longitude": -118.854879,
+    "status": "blue"
+  },
+  {
+    "_id": "6674c4774446b6c7af35c06f",
+    "isActive": false,
+    "lastUpdate": "2022-01-02T11:06:45 +08:00",
+    "latitude": 69.711901,
+    "longitude": -176.795164,
+    "status": "green"
+  },
+  {
+    "_id": "6674c477c0c909c50e0b5671",
+    "isActive": true,
+    "lastUpdate": "2022-01-01T04:59:58 +08:00",
+    "latitude": -64.678652,
+    "longitude": 173.734537,
+    "status": "red"
+  },
+  {
+    "_id": "6674c47782184700763c0c2b",
+    "isActive": false,
+    "lastUpdate": "2021-12-27T12:45:17 +08:00",
+    "latitude": 55.008726,
+    "longitude": -94.627812,
+    "status": "red"
+  },
+  {
+    "_id": "6674c477ce83790054805e83",
+    "isActive": true,
+    "lastUpdate": "2018-04-22T11:44:13 +07:00",
+    "latitude": 78.014246,
+    "longitude": 124.032228,
+    "status": "green"
+  },
+  {
+    "_id": "6674c47793646c7632d07216",
+    "isActive": false,
+    "lastUpdate": "2018-01-21T04:16:18 +08:00",
+    "latitude": 12.975703,
+    "longitude": -58.447281,
+    "status": "red"
+  },
+  {
+    "_id": "6674c47716897adda4ba2113",
+    "isActive": true,
+    "lastUpdate": "2023-10-08T06:19:44 +07:00",
+    "latitude": 65.862776,
+    "longitude": 102.88649,
+    "status": "green"
+  },
+  {
+    "_id": "6674c4777b3ec5bd319b2acc",
+    "isActive": false,
+    "lastUpdate": "2014-01-24T08:45:52 +08:00",
+    "latitude": -51.964324,
+    "longitude": 146.045587,
+    "status": "blue"
+  },
+  {
+    "_id": "6674c4771e8dae5ec10f7958",
+    "isActive": true,
+    "lastUpdate": "2021-04-09T08:47:07 +07:00",
+    "latitude": -2.239516,
+    "longitude": 0.938571,
+    "status": "red"
+  },
+  {
+    "_id": "6674c477d0b46d79be79ab81",
+    "isActive": false,
+    "lastUpdate": "2023-11-06T09:08:34 +08:00",
+    "latitude": 8.990148,
+    "longitude": 27.603189,
+    "status": "green"
+  }
+]
